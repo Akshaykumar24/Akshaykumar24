@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Akshaykumar Purad</h1>
+<h1 align="center"> I'm Akshaykumar Purad</h1>
 <h3 align="center">A Full Stack Developer in the process.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykumar24&label=Profile%20views&color=0e75b6&style=flat" alt="akshaykumar24" /> </p>
