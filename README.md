@@ -1,5 +1,8 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akshaykumar Purad</h1>
+<p align= "center">
+<img src="https://i.ibb.co/kJRXxg0/undraw-Code-thinking-re-gka2.png" width="80%" height="350px"/>
+ </p>
 <h3 align="center">A Full Stack Developer in the process.</h3>
 
 <p align= "center">
